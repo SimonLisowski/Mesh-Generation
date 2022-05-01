@@ -1,0 +1,10 @@
+paths.conf
+weights/
+log/*.log
+log/*.out
+log/*.error
+Output/
+.idea/
+env/
+__pycache__/
+lib_edgenet360/__pycache__/

@@ -1,0 +1,2 @@
+Condor log files go here
+Don't remove this folder
