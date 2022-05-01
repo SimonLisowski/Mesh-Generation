@@ -34,8 +34,8 @@ Packages:
    * [pandas](https://anaconda.org/anaconda/pandas).
    * [matplotlib](https://anaconda.org/conda-forge/matplotlib).
    * [sklearn](https://anaconda.org/anaconda/scikit-learn).
-   * [skimage](https://scikit-image.org/docs/dev/install.html)
-   * [openmesh](https://anaconda.org/conda-forge/openmesh-python)
+   * [skimage](https://scikit-image.org/docs/dev/install.html).
+   * [openmesh](https://anaconda.org/conda-forge/openmesh-python).
 
 ## Inferring Over Stereoscopic Images
 
