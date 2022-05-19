@@ -105,18 +105,3 @@ Run:
 ```
 
 The output will be located in `./Output` and will include the original EdgeNet360 voxel output, as well as an additional OBJ and corresponding MAT file for the generated mesh.
-
-### Evaluation 
-
-To prepare the entire dataset for inference, find the `eval_stanford.py` script, and adjust the lines below, according to your environment. 
-
-``` shell
-    processed_path = './Data/stanford_processed'
-```
-
-Save and run the script:
-``` shell
-    python eval_stanford.py
-```
-
-
